@@ -1,1 +1,1 @@
-# COVID fatalities and confirmed cases across the world are modeled for a Kaggle competition.
+COVID fatalities and confirmed cases are estimated using a logistic model. This is for the Kaggle competition: https://www.kaggle.com/c/covid19-global-forecasting-week-3. It placed in the top 17% of entries. 
